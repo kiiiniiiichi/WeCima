@@ -1,10 +1,10 @@
 {
-  "name": "@xHiqhAim/AniwaveTB",
-  "appName": "AniwaveTB",
+  "name": "@xHiqhAim/WeCima",
+  "appName": "WeCima",
   "version": "1.0",
-  "description": "AniWave with adblocker",
+  "description": "WeCima with adblocker",
   "packageType": "mods",
-  "websiteURL": "https://aniwave.se/home-anime",
+  "websiteURL": "https://wecima.film/",
   "main": "scripts/userScript.js",
   "author": "xHiqhAim",
   "keys": [
@@ -18,7 +18,7 @@
     "MediaTrackPrevious"
   ],
   "repository": {
-    "url": "https://github.com/kiiiniiiichi/AniWave"
+    "url": "https://github.com/kiiiniiiichi/WeCima"
   },
   "license": "GPL-3.0-only"
 }
